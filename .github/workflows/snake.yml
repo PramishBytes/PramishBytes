@@ -1,23 +1,50 @@
-name: Generate Snake Contribution Graph
 
-on:
-  schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
-  workflow_dispatch:
+---
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: PramishBytes
-          svg_out_path: dist/github-contribution-grid-snake.svg
+### 2️⃣ Edit README.md
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+- Go to your **PramishBytes** repository.
+- Click **README.md** → Pencil icon (Edit).
+- **Delete everything** there.
+- **Paste** the full new text above.
+- Click **Commit changes**.
+
+---
+
+### 3️⃣ Create assets folder (optional, if you want local banner)
+
+If you want a local custom image later, we can do that. But for now, the above uses a pre-made hacker GIF online (so you don’t need to upload anything).
+
+---
+
+## 💥 Your pinned repos
+
+You can rename and add 3–5 new pinned repos to look more "hackerish", for example:
+
+### Suggested pinned repos
+
+| Repo Name         | Description                            |
+|-------------------|----------------------------------------|
+| `Payloads`        | Curated payload collections for exploit testing. |
+| `Exploits`        | Custom exploits and PoCs for vulnerability research. |
+| `OSINT-Toolkit`   | Open-source intelligence automation tools. |
+| `Recon-Scripts`   | Reconnaissance and fingerprinting scripts. |
+| `Red-Team-Labs`   | Simulated attack environment experiments. |
+
+---
+
+## ⚡ If you'd like, I can also prepare **all the README.md files for each pinned repo**, so you just paste them there too.
+
+---
+
+### ✅ What you should do next
+
+1️⃣ Copy & paste the final README above right now.  
+2️⃣ Let me know if you'd like me to **prepare README files for each pinned repo** too.  
+
+---
+
+💣 Once you do this, your profile will look fully hacker-themed and **ready to show off**.  
+
+⚔️ Tell me **"Yes, also prepare pinned repo READMEs"** if you'd like that — and I'll send you all in one go!
+
