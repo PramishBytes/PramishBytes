@@ -18,11 +18,6 @@
 ## ⚔️ Tech Arsenal
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit)
-![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=gnubash)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
 
