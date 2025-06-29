@@ -1,16 +1,15 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/PramishBytes/PramishBytes/main/assets/banner-hacker.gif" alt="banner" width="100%"/>
 
-<!--
-**PramishBytes/PramishBytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 PramishBytes
 
-Here are some ideas to get you started:
+```python
+class Hacker:
+    def __init__(self):
+        self.alias = "PramishBytes"
+        self.skills = ["Reverse Engineering", "Exploits", "Malware Analysis", "OSINT"]
+        self.tools = ["Linux", "Nmap", "Burp Suite", "Ghidra", "Metasploit", "Wireshark"]
+        self.mindset = "Always stay curious. Think like an attacker."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def evolve(self):
+        while True:
+            self.skills.append("New Zero-Day")
